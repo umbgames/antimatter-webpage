@@ -1,0 +1,6 @@
+{
+  "name": "Antimatter",
+  "description": "A local-first, no-signup, BYOK agentic IDE for developers who want control over their workspace, model providers, and execution surface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
