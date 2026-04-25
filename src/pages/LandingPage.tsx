@@ -167,9 +167,10 @@ export default function LandingPage() {
         >
           <motion.h1
             variants={itemVariants}
-            className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold tracking-tight text-slate-900 leading-[1.1] mb-6 whitespace-normal sm:whitespace-nowrap sm:break-normal break-all"
+            className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold tracking-tight text-slate-900 leading-[1.1] mb-6 whitespace-normal sm:whitespace-nowrap sm:break-normal break-all flex items-center"
           >
-            ɅNTIMɅTTΞR
+            <img src="/logo.png" alt="A" className="h-[1em] w-auto mr-1 drop-shadow-sm" />
+            NTIMɅTTΞR
           </motion.h1>
           
           <motion.p
